@@ -1,0 +1,14 @@
+layout_spectrum: 0.02309345
+typography_spectrum: 0.7365495
+color:
+  saturation: 0.1970999
+  lightness: 0.3925886
+  brandStrength: 0.4452202
+  brandColors:
+    - '#0E0D0C'
+    - '#E0E0E9'
+    - '#CF2840'
+    - '#552FAB'
+    - '#FFBD16'
+  rhythmicContrast: 0.6117079
+name: TestJackie
